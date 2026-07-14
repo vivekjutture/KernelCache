@@ -69,17 +69,13 @@ Once initialized, you have full control over the kernel:
 
 ## 🚀 Installation & Setup
 
-1. Clone the repository:
-   git clone https://github.com/your-username/unix-buffer-simulator.git
+1. Clone the repository
 
 2. Install Dependencies:
    npm install
 
 3. Run Development Server:
    npm run dev
-
-4. Build for Production:
-   npm run build
 
 ---
 
